@@ -1,0 +1,15 @@
+C:\Users\Y.S\Desktop\Internship\C#\bin\Debug\net7.0\Tasks.exe
+C:\Users\Y.S\Desktop\Internship\C#\bin\Debug\net7.0\Tasks.deps.json
+C:\Users\Y.S\Desktop\Internship\C#\bin\Debug\net7.0\Tasks.runtimeconfig.json
+C:\Users\Y.S\Desktop\Internship\C#\bin\Debug\net7.0\Tasks.dll
+C:\Users\Y.S\Desktop\Internship\C#\bin\Debug\net7.0\Tasks.pdb
+C:\Users\Y.S\Desktop\Internship\C#\obj\Debug\net7.0\Tasks.csproj.AssemblyReference.cache
+C:\Users\Y.S\Desktop\Internship\C#\obj\Debug\net7.0\Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Y.S\Desktop\Internship\C#\obj\Debug\net7.0\Tasks.AssemblyInfoInputs.cache
+C:\Users\Y.S\Desktop\Internship\C#\obj\Debug\net7.0\Tasks.AssemblyInfo.cs
+C:\Users\Y.S\Desktop\Internship\C#\obj\Debug\net7.0\Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Y.S\Desktop\Internship\C#\obj\Debug\net7.0\Tasks.dll
+C:\Users\Y.S\Desktop\Internship\C#\obj\Debug\net7.0\refint\Tasks.dll
+C:\Users\Y.S\Desktop\Internship\C#\obj\Debug\net7.0\Tasks.pdb
+C:\Users\Y.S\Desktop\Internship\C#\obj\Debug\net7.0\Tasks.genruntimeconfig.cache
+C:\Users\Y.S\Desktop\Internship\C#\obj\Debug\net7.0\ref\Tasks.dll
