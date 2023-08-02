@@ -52,6 +52,84 @@ public class Library
         }
     }
 
+
+   public void UserAddBook()
+    {
+        Console.WriteLine("Enter the details for the book:");
+
+        // Validate title
+        string? title;
+        do
+        {
+            Console.Write("Title: ");
+            title = Console.ReadLine();
+        } while (string.IsNullOrWhiteSpace(title));
+
+        // Validate author
+        string? author;
+        do
+        {
+            Console.Write("Author: ");
+            author = Console.ReadLine();
+        } while (string.IsNullOrWhiteSpace(author));
+
+        // Validate ISBN
+        string? isbn;
+        do
+        {
+            Console.Write("ISBN: ");
+            isbn = Console.ReadLine();
+        } while (string.IsNullOrWhiteSpace(isbn));
+
+        // Validate Publication Year
+        int publicationYear;
+        string? publicationYearInput;
+        do
+        {
+            Console.Write("Publication Year: ");
+            publicationYearInput = Console.ReadLine();
+        } while (string.IsNullOrWhiteSpace(publicationYearInput) || !int.TryParse(publicationYearInput, out publicationYear));
+
+        Book book = new Book(title, author, isbn, publicationYear);
+        Books.Add(book);
+        Console.WriteLine($"Book '{book.Title}' added to the library.");
+    }
+
+
+    public void UserAddMediaItem()
+    {
+        Console.WriteLine("Enter the details for the media item:");
+
+        // Validate title
+        string? title;
+        do
+        {
+            Console.Write("Title: ");
+            title = Console.ReadLine();
+        } while (string.IsNullOrWhiteSpace(title));
+
+        // Validate media type
+        string? mediaType;
+        do
+        {
+            Console.Write("Media Type: ");
+            mediaType = Console.ReadLine();
+        } while (string.IsNullOrWhiteSpace(mediaType));
+
+        // Validate duration
+        int duration;
+        string? durationInput;
+        do
+        {
+            Console.Write("Duration (minutes): ");
+            durationInput = Console.ReadLine();
+        } while (string.IsNullOrWhiteSpace(durationInput) || !int.TryParse(durationInput, out duration));
+
+        MediaItem item = new MediaItem(title, mediaType, duration);
+        MediaItems.Add(item);
+        Console.WriteLine($"Media item '{item.Title}' added to the library.");
+    }
+
     public void PrintCatalog()
     {
         Console.WriteLine($"Catalog of Library: {Name} ({Address})");
@@ -113,6 +191,39 @@ public class Day2T2
         library.AddBook(book2);
         library.AddMediaItem(media1);
         library.AddMediaItem(media2);
+
+
+        Console.WriteLine("Enter books and media items for the library.");
+        while (true)
+        {
+            
+            string? itemType;
+            do
+            {
+                Console.Write("Enter 'book' or 'media' (or 'exit' to stop): ");
+                itemType = Console.ReadLine();
+
+            } while (string.IsNullOrEmpty(itemType));
+
+            itemType = itemType.ToLower();
+
+            if (itemType == "exit")
+                break;
+
+            if (itemType == "book")
+            {
+                library.UserAddBook();
+            }
+            else if (itemType == "media")
+            {
+                library.UserAddMediaItem();
+            }
+            else
+            {
+                Console.WriteLine("Invalid item type. Please enter 'book' or 'media'.");
+            }
+        }
+
 
         Console.WriteLine("\n--- Catalog of the Library ---");
         library.PrintCatalog();
