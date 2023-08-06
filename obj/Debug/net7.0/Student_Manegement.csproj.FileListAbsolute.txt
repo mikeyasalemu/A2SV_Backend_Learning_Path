@@ -1,0 +1,17 @@
+C:\Users\Y.S\Desktop\Internship\Student_Manegement\bin\Debug\net7.0\Student_Manegement.exe
+C:\Users\Y.S\Desktop\Internship\Student_Manegement\bin\Debug\net7.0\Student_Manegement.deps.json
+C:\Users\Y.S\Desktop\Internship\Student_Manegement\bin\Debug\net7.0\Student_Manegement.runtimeconfig.json
+C:\Users\Y.S\Desktop\Internship\Student_Manegement\bin\Debug\net7.0\Student_Manegement.dll
+C:\Users\Y.S\Desktop\Internship\Student_Manegement\bin\Debug\net7.0\Student_Manegement.pdb
+C:\Users\Y.S\Desktop\Internship\Student_Manegement\obj\Debug\net7.0\Student_Manegement.csproj.AssemblyReference.cache
+C:\Users\Y.S\Desktop\Internship\Student_Manegement\obj\Debug\net7.0\Student_Manegement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Y.S\Desktop\Internship\Student_Manegement\obj\Debug\net7.0\Student_Manegement.AssemblyInfoInputs.cache
+C:\Users\Y.S\Desktop\Internship\Student_Manegement\obj\Debug\net7.0\Student_Manegement.AssemblyInfo.cs
+C:\Users\Y.S\Desktop\Internship\Student_Manegement\obj\Debug\net7.0\Student_Manegement.csproj.CoreCompileInputs.cache
+C:\Users\Y.S\Desktop\Internship\Student_Manegement\obj\Debug\net7.0\Student_Manegement.dll
+C:\Users\Y.S\Desktop\Internship\Student_Manegement\obj\Debug\net7.0\refint\Student_Manegement.dll
+C:\Users\Y.S\Desktop\Internship\Student_Manegement\obj\Debug\net7.0\Student_Manegement.pdb
+C:\Users\Y.S\Desktop\Internship\Student_Manegement\obj\Debug\net7.0\Student_Manegement.genruntimeconfig.cache
+C:\Users\Y.S\Desktop\Internship\Student_Manegement\obj\Debug\net7.0\ref\Student_Manegement.dll
+C:\Users\Y.S\Desktop\Internship\Student_Manegement\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Y.S\Desktop\Internship\Student_Manegement\obj\Debug\net7.0\Student_Manegement.csproj.CopyComplete
