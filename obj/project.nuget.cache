@@ -1,8 +1,17 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "MqLfE+MQew+tp8vEqxSan/r5hv1Qi5+qLX9BAEhi1+GKt2W0y1z/nBBwixDNoBqFdUnj2avUzTOKmstKqDE6cQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Y.S\\Desktop\\Internship\\C#\\Tasks.csproj",
   "expectedPackageFiles": [],
+=======
+  "dgSpecHash": "jADp92zTT+V2OQoiOxXM5jawWHIB26H2YCV1x/xApZXd0v4Bdy3pUl02u0LDzv37/zpMFtVNYz83Kylv8iGmoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Y.S\\Desktop\\Internship\\Student_Manegement\\Student_Manegement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Y.S\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+>>>>>>> 8c4b418 (task 3)
   "logs": []
 }
