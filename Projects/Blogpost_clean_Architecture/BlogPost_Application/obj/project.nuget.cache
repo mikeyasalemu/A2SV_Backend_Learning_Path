@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4eN6/W1PY44+ImmK1BSVzdITlai5v8vZ/qsQiOlTdD2CPxbXvGC2S2zvR86+vcmcCYEztU7ncqgC/YNav+N7Rg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\DotNet\\projs\\Blogpost_clean_Architecture\\BlogPost_Application\\BlogPost_Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
